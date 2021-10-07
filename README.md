@@ -20,7 +20,7 @@ Mai jos aveți un exemplu de subiect. Acesta NU este ce veți primi la examen, e
 
 --
 
-**La finalul timpului de lucru, încărcați rezolvările pe repository-ul creat prin acceptarea assignment-ului Lab 4, într-un fișier denumit main.py.**
+**La finalul timpului de lucru, încărcați rezolvările pe repository-ul creat prin acceptarea assignment-ului Lab 4, într-un fișier denumit main.py. Puteți folosi fișiere suplimentare dacă doriți, dar programul trebuie să poată fi pornit rulând doar main.py.**
 
 Scrieți un program cu meniu (meniul va conține o opțiune care oprește programul) care suportă operațiile:
 1. [1p] Citirea unei liste de float-uri. Citirile repetate suprascriu listele precedente.
