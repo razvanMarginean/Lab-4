@@ -1,6 +1,6 @@
 # Laborator 4 - Săptămâna 4
 
-În cadrul laboratorului 4, fiecare student va primi cerințele pentru primul examen parțial. Acesta valorează `30` din media notelor pe laborator. 
+În cadrul laboratorului 4, fiecare student va primi cerințele pentru primul examen parțial. Acesta valorează `30%` din media notelor pe laborator. 
 
 Va trebui să acceptați assignmentul și să încărcați rezolvarea în repository-ul creat astfel.
 
